@@ -133,7 +133,7 @@ Start Ollama if it is not already running.
 ## ▶️ Run the Application
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 The application will open automatically in your web browser.

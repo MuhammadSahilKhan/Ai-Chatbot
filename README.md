@@ -148,18 +148,6 @@ The application will open automatically in your web browser.
 * Continue conversations with contextual memory.
 
 ---
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```text
-assets/
-├── home.png
-├── pdf-chat.png
-├── voice-input.png
 ```
 
 ---

@@ -148,7 +148,6 @@ The application will open automatically in your web browser.
 * Continue conversations with contextual memory.
 
 ---
-```
 
 ---
 

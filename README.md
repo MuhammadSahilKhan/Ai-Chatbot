@@ -191,7 +191,7 @@ Institute of Space Technology (IST), Islamabad
 
 GitHub: https://github.com/MuhammadSahilKhan
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: www.linkedin.com/in/muhammad-sahil-khan-51a714387
 
 ---
 

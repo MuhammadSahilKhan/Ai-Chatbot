@@ -56,9 +56,7 @@ This project was developed as part of an **Artificial Intelligence Internship** 
 LocalMind-AI/
 │
 ├── app.py                 # Main Streamlit application
-├── requirements.txt       # Project dependencies
-├── README.md              # Project documentation
-└── assets/                # Images and screenshots (optional)
+└── README.md              # Project documentation
 ```
 
 ---
